@@ -5,6 +5,6 @@ class  DevelopmentConfig():
     MYSQL_PASSWORD=''
     MYSQL_DB='api_utl'
 
-    config={
-        'development':DevelopmentConfig
+config={
+        'development':DevelopmentConfig()
     }
